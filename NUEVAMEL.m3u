@@ -22,7 +22,7 @@ http://190.83.60.34:1414/play/a04j
 http://45.189.117.202:48000/play/3/index.m3u8
 #EXTINF:0,ATV HD
 #EXTGRP:sin clasificar
-http://190.119.178.46:8000/play/a01a/index.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 #EXTINF:0,ATV HD
 #EXTGRP:sin clasificar
 http://181.119.66.30:8000/play/59/index.m3u8
@@ -42,7 +42,7 @@ http://191.97.58.41:8001/play/a00v
 http://190.119.178.46:8000/play/a019/index.m3u8
 #EXTINF:0, NATIVA HD
 #EXTGRP:sin clasificar
-http://190.119.178.46:8000/play/a07e/index.m3u8
+https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0,LOS MEJORES DEPORTES POR CABLE
 #EXTGRP:sin clasificar
 http://gotv.vip:8880/Guille/Guille/20034
