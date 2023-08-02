@@ -4,7 +4,7 @@
 http://45.189.117.202:48000/play/a02v/index.m3u8
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:unsorted
-http://jagertv.us:8880/Guille/Guille/122387
+http://45.189.117.202:48000/play/a01y/index.m3u8
 #EXTINF:0,GOLPERU HD
 #EXTGRP:unsorted
 http://190.83.60.34:1414/play/a04m
@@ -25,7 +25,7 @@ http://45.189.117.202:48000/play/3/index.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 #EXTINF:0,ATV HD
 #EXTGRP:sin clasificar
-http://181.119.66.30:8000/play/59/index.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:0,ATV+
 #EXTGRP:sin clasificar
 http://181.119.66.30:8000/play/ATV/index.m3u8
