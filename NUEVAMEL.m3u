@@ -10,7 +10,7 @@ http://38.43.140.212:8000/play/a02o/index.m3u8
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:sin clasificar
-http://tutv.online:2080/f7g9h8b7/j3s7x7q8/114270
+http://gotv.vip:8880/Kim1/Kim1/122387
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:sin clasificar
 http://nxt.plus:8080/Prueba/12345/130639
@@ -85,24 +85,24 @@ http://191.97.58.41:8001/play/a00b
 #EXTINF:0, NATIVA HD
 #EXTGRP:sin clasificar
 https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:0, NATIVA HD
+#EXTGRP:sin clasificar
+http://gotv.vip:8880/Kim1/Kim1/146627
 #EXTINF:0,GLOBAL
 #EXTGRP:sin clasificar
 http://191.97.58.41:8001/play/a00d
 #EXTINF:0,CONGRESO TV
 #EXTGRP:sin clasificar
 http://158.69.52.98:25461/tech5/12345/13741
-#EXTINF:0,PBO
-#EXTGRP:sin clasificar
-http://45.189.117.202:48000/play/a02l/index.m3u8
 #EXTINF:0,DISTRITO COMEDIA
 #EXTGRP:sin clasificar
 http://45.5.117.172:8000/play/a05o/index.m3u8
 #EXTINF:0,UNIMAS LOS ANGELES
 http://thex.tv:57999/SandraArroyo/qgQC5GIpnH/671
 #EXTINF:0,UNIMAS MIAMI
-http://gotv.vip:8880/Guille/Guille/69777
+http://gotv.vip:8880/Kim1/Kim1/69777
 #EXTINF:0,UNIMAS NY
-http://gotv.vip:8880/Guille/Guille/69778
+http://gotv.vip:8880/Kim1/Kim1/69778
 #EXTINF:0,LATINA UNA HORA MENOS
 #EXTGRP:sin clasificar
 http://nino4play.com:25461/tech5/12345/5
@@ -312,7 +312,7 @@ http://190.83.60.34:1414/play/a03h
 http://190.83.60.34:1414/play/a06i
 #EXTINF:0,TyC Deportes HD
 #EXTGRP:sin clasificar
-http://190.83.60.34:1414/play/a04l
+http://187.102.208.155:8000/play/a08l/index.m3u8
 #EXTINF:0,CANAL UNIVERSAL HD
 #EXTGRP:sin clasificar
 http://190.83.60.34:1414/play/a02u
@@ -322,6 +322,10 @@ http://190.83.60.34:1414/play/a06r
 #EXTINF:0, Canal Warner HD
 #EXTGRP:sin clasificar
 http://190.83.60.34:1414/play/a01e
+#EXTINF:-1,Win Sports HD
+http://168.194.171.33:8000/play/a04m/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://168.194.171.33:8000/play/a05b/index.m3u8
 #EXTINF:0, Gana Deportes HD
 #EXTGRP:sin clasificar
 http://190.83.60.34:1414/play/a01k
