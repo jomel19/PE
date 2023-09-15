@@ -4,9 +4,6 @@
 http://nino4play.com:25461/tech5/12345/14363
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:sin clasificar
-http://38.43.140.212:8000/play/a02o/index.m3u8
-#EXTINF:0,LIGA 1 MAX
-#EXTGRP:sin clasificar
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:sin clasificar
@@ -23,12 +20,6 @@ http://nxt.plus:8080/Prueba/12345/169425
 #EXTINF:0,GOLPERU HD
 #EXTGRP:sin clasificar
 http://190.83.60.34:1414/play/a04m
-#EXTINF:0,GOLPERU HD 2
-#EXTGRP:sin clasificar
-http://38.43.140.212:8000/play/a03i/index.m3u8
-#EXTINF:0,GOLPERU HD 3
-#EXTGRP:sin clasificar
-http://191.97.58.41:8001/play/a008
 #EXTINF:0,Movistar Deportes HD
 #EXTGRP:sin clasificar
 http://190.83.60.34:1414/play/a05s
@@ -46,13 +37,7 @@ http://190.83.60.34:1414/play/a04j
 http://38.43.140.212:8000/play/a00j/index.m3u8
 #EXTINF:0,TV PANAMERICANA
 #EXTGRP:sin clasificar
-http://38.43.140.212:8000/play/a00k/index.m3u8
-#EXTINF:0,TV PANAMERICANA
-#EXTGRP:sin clasificar
 http://45.71.252.67:8000/play/a0ff/index.m3u8
-#EXTINF:0,TV PANAMERICANA
-#EXTGRP:sin clasificar
-http://192.99.70.160:25461/maria23/maria23/684
 #EXTINF:0,ATV HD
 #EXTGRP:sin clasificar
 http://45.71.252.67:8000/play/a0fj/index.m3u8
@@ -63,13 +48,13 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTGRP:sin clasificar
 http://181.119.66.30:8000/play/ATV/index.m3u8
 #EXTINF:0,Exitosa HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304296
+http://190.119.178.46:8000/play/a08z/index.m3u8
 #EXTINF:0,WILLAX HD
 #EXTGRP:sin clasificar
 http://sysadminhost.net:8080/ADC5AND6/da3be4b6/187026
 #EXTINF:0,WILLAX HD
 #EXTGRP:sin clasificar
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304311
+http://190.119.178.46:8000/play/a07r/index.m3u8
 #EXTINF:0, RPP HD
 #EXTGRP:sin clasificar
 http://191.97.58.41:8001/play/a00v
@@ -91,9 +76,6 @@ http://gotv.vip:8880/Kim1/Kim1/146627
 #EXTINF:0,GLOBAL
 #EXTGRP:sin clasificar
 http://191.97.58.41:8001/play/a00d
-#EXTINF:0,CONGRESO TV
-#EXTGRP:sin clasificar
-http://158.69.52.98:25461/tech5/12345/13741
 #EXTINF:0,DISTRITO COMEDIA
 #EXTGRP:sin clasificar
 http://45.5.117.172:8000/play/a05o/index.m3u8
@@ -150,13 +132,13 @@ http://190.83.60.34:1414/play/a02g
 http://190.83.60.34:1414/play/a059
 #EXTINF:0,DSPORTS 
 #EXTGRP:sin clasificar
-http://v3.playerlatino.live/stream/m3u8/974
+http://nxt.plus:8080/Belen/1234/160611
 #EXTINF:0,DSPORTS 2
 #EXTGRP:sin clasificar
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/192671
+http://nxt.plus:8080/Belen/1234/68829
 #EXTINF:0,DSports Plus
 #EXTGRP:sin clasificar
-http://v3.playerlatino.live/stream/m3u8/935
+http://nxt.plus:8080/Belen/1234/68830
 #EXTINF:0,DSports Fight
 #EXTGRP:sin clasificar
 http://190.83.60.34:1414/play/a069
