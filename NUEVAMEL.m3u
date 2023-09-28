@@ -1,19 +1,25 @@
 #EXTM3U
-#EXTINF:0,LIGA 1 MAX 1
-http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/247397.m3u8
-#EXTINF:0,LIGA 1 MAX 2
-http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/256885.m3u8
-#EXTINF:0,LIGA 1 MAX 3
+#EXTINF:0,LIGA 1
+http://gotv.vip:8880/Kim1/Kim1/122388
+#EXTINF:0,LIGA 1 MAX 209
+http://209.45.81.84:8000/play/a00c
+#EXTINF:0,LIGA 1 MAX OFF
+http://offshore.lat:25461/emmacv0696/P20emmacv0696/304162
+#EXTINF:0,LIGA 1 MAX KIM
 http://gotv.vip:8880/Kim1/Kim1/122387
-#EXTINF:0,LIGA 1 MAX 4
+#EXTINF:0,LIGA 1 MAX 
+http://gotv.vip:8880/Kim1/Kim1/122387
+#EXTINF:0,LIGA 1 MAX GAF
+http://gafitvapp.win:8080/MV345/MV345/391637
+#EXTINF:0,LIGA 1 MAX TUTV
+http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/256885.m3u8
+#EXTINF:0,LIGA 1 MAX 
 http://nxt.plus:8080/Prueba/12345/130639
-#EXTINF:0,LIGA 1 MAX 5
-http://sysadminhost.net:8080/ADC5AND6/da3be4b6/298922
-#EXTINF:0,LIGA 1 MAX 6
-http://nxt.plus:8080/Prueba/12345/169425
-#EXTINF:0,LIGA 1 MAX 7
-http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/256888.m3u8
-#EXTINF:0,LIGA 1 MAX 7
+#EXTINF:0,LIGA 1 MAX PRO
+http://proiptvdigic.com:8080/WxZ4nPUPLWHB/7ZqTQzkm4Jup/184975
+#EXTINF:0,LIGA 1 MAX 
+http://offshore.lat:25461/emmacv0696/P20emmacv0696/304163
+#EXTINF:0,LIGA 1 MAX 
 http://tutv.online:8080/live/f7g9h8b7/j3s7x7q8/247398.m3u8
 #EXTINF:0,GOLPERU HD
 http://190.119.178.46:8000/play/a05b/index.m3u8
@@ -21,24 +27,20 @@ http://190.119.178.46:8000/play/a05b/index.m3u8
 http://187.102.208.155:8000/play/a06u/index.m3u8
 #EXTINF:0,Movistar Deportes HD
 http://190.119.178.46:8000/play/a04y/index.m3u8
-#EXTINF:0,Movistar Deportes HD
-http://38.43.140.212:8000/play/a03d/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://187.102.208.155:8000/play/a06i/index.m3u8
 #EXTINF:0, Latina HD
 http://190.119.178.46:8000/play/a059/index.m3u8
 #EXTINF:-1,Latina HD
 http://187.102.208.155:8000/play/a0aw/index.m3u8
-#EXTINF:0, América TV HD
-http://38.43.140.212:8000/play/a00j/index.m3u8
 #EXTINF:-1,America TV HD
 http://187.102.208.155:8000/play/a0av/index.m3u8
 #EXTINF:0, América TV HD
 http://190.119.178.46:8000/play/a058/index.m3u8
 #EXTINF:0,TV PANAMERICANA
-http://38.43.140.212:8000/play/a00k/index.m3u8
+http://190.116.90.43:8000/play/a002
 #EXTINF:0,TV PANAMERICANA
-http://45.71.252.67:8000/play/a0ff/index.m3u8
+http://weib-tv.com:80/Luisvelasco/18707daff03f0240/9479
 #EXTINF:0,ATV HD
 http://45.71.252.67:8000/play/a0fj/index.m3u8
 #EXTINF:0,ATV HD
@@ -66,9 +68,7 @@ http://gotv.vip:8880/Kim1/Kim1/146627
 #EXTINF:0,GLOBAL
 http://191.97.58.41:8001/play/a00d
 #EXTINF:0,DISTRITO COMEDIA
-http://45.5.117.172:8000/play/a05o/index.m3u8
-#EXTINF:0,UNIMAS LOS ANGELES
-http://thex.tv:57999/SandraArroyo/qgQC5GIpnH/671
+http://45.71.252.67:8000/play/a0n6/index.m3u8
 #EXTINF:0,UNIMAS MIAMI
 http://gotv.vip:8880/Kim1/Kim1/69777
 #EXTINF:0,UNIMAS NY
@@ -89,6 +89,8 @@ http://187.102.208.155:8000/play/a058/index.m3u8
 http://187.102.208.155:8000/play/a05r/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
 http://187.102.208.155:8000/play/a066/index.m3u8
+#EXTINF:0,DSPORTS 
+http://209.45.81.84:8000/play/a03d
 #EXTINF:0,DSPORTS 
 #EXTGRP:sin clasificar
 http://nxt.plus:8080/Belen/1234/160611
